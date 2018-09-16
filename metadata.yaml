@@ -1,0 +1,30 @@
+_repo: In-Indian-Tents-Stories-Told-by-Penobscot-Passamaquoddy-and-Micmac-Indians-to-Abby-L-Alger_51908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Abby Langdon
+    alias: Alger, A. L. (Abby Langdon)
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '40123'
+    url: http://www.gutenberg.org/2009/agents/40123
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51908'
+  lccn: '14010153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Passamaquoddy Indians -- Folklore'
+- !lcc 'E011'
+- !lcsh 'Micmac Indians -- Folklore'
+- !lcsh 'Penobscot Indians -- Folklore'
+- !lcsh 'Tales -- New England'
+- GITenberg
+title: "In Indian Tents\r\nStories Told by Penobscot, Passamaquoddy and Micmac Indians\
+  \ to Abby L. Alger"
+url: http://www.gutenberg.org/ebooks/51908
