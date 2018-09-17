@@ -1,5 +1,8 @@
 _repo: In-Indian-Tents-Stories-Told-by-Penobscot-Passamaquoddy-and-Micmac-Indians-to-Abby-L-Alger_51908
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51908-h/images/cover.jpg
 creator:
   author:
     agent_name: Alger, Abby Langdon
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40123'
     url: http://www.gutenberg.org/2009/agents/40123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51908#In-Indian-Tents-Stories-Told-by-Penobscot-Passamaquoddy-and-Micmac-Indians-to-Abby-L-Alger
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
